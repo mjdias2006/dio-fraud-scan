@@ -8,6 +8,9 @@
 
 *Um script analítico para detecção de anomalias e fraudes em transações financeiras utilizando Machine Learning.*
 
+## 📸 Visão Geral do Código
+<img src="https://github.com/mjdias2006/dio-fraud-scan/blob/main/assets/fraud-detection-script.png" alt="Estrutura do Código de Detecção de Fraudes" width="800px">
+
 </div>
 
 ## 📝 Projeto
@@ -25,4 +28,3 @@ Este repositório contém uma implementação prática de **Detecção de Fraude
 3. Execute o script principal:
    ```bash
    python main.py
-   ```
